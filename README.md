@@ -17,7 +17,7 @@
 
 O projeto consiste num gerador de descrições e títulos para vídeos do YouTube a partir da transcrição do conteúdo.
 
-O front-end do projeto está disponível neste repositório. Já o back-end está disponível [aqui](https://github.com/madalena-rocha/upload-ai-api).
+O front-end do projeto está disponível neste repositório.
 
 ![upload.ai](./public/upload-ai.png)
 
