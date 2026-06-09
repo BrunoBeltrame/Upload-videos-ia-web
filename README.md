@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="License" src="<img width="1030" height="553" alt="Captura de tela 2026-06-09 202753" src="https://github.com/user-attachments/assets/916900c9-9ae9-4e6f-bd4a-b533e2c34887" />
+">
 </p>
 
 <h2 id="project">📁 Projeto</h2>
