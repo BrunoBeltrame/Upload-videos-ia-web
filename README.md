@@ -27,11 +27,8 @@ Este projeto foi desenvolvido utilizando tecnologias como:
 
 - React
 - TypeScript
-- ESLint
 - Tailwind CSS
-- Axios
 - Vite
-- FFmpeg
 - Radix UI
 - PostCSS
 
