@@ -6,12 +6,10 @@
   <a href="#project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#usage">Utilização</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#license">Licença</a>
 </p>
 
 <p align="center">
-  <img alt="License" src="<img width="1030" height="553" alt="Captura de tela 2026-06-09 202753" src="https://github.com/user-attachments/assets/916900c9-9ae9-4e6f-bd4a-b533e2c34887" />
-">
+<img width="1446" height="743" alt="Captura de tela 2026-06-09 203117" src="https://github.com/user-attachments/assets/9d5abe97-b8a8-4ab7-be44-bd1328dd8d18" />
 </p>
 
 <h2 id="project">📁 Projeto</h2>
