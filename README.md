@@ -2,8 +2,6 @@
   upload.ai
 </h1>
 
-> Projeto desenvolvido na Trilha Mastery da NLW IA da Rocketseat.
-
 <p align="center">
   <a href="#project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -71,7 +69,7 @@ Este projeto está sob a licença MIT.
 
 ---
 
-Feito com 💜 by Madalena 👋🏾
+Feito com 💜 by Bruno Beltrame
 
 <div style="display: flex;">
   <a href="https://www.linkedin.com/in/madalena-machado-rocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 2vw" target="_blank"></a>
